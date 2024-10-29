@@ -1,0 +1,39 @@
+{
+    "version":"1.0.0",
+    "meta": {
+        "nodeformat": {
+
+        },
+        "gameDataFormat": {
+
+        },
+        "edeformat":{}
+    },
+    "data":{
+        "Nodes": [{
+            "dataId":"",
+            "id":"",
+            "edgesCount":1,
+            "edges":[
+            {
+                "fromId":"",
+                "toId": ""
+            }]
+        }],
+        "gameDataSize":2,
+        "gameData": [{
+            "dataId":"",
+            "text" : "hello world",
+            "this.optionText" : "optionText",
+            "points" : 10,
+            "neagativePoints" : "neagativePoints"
+        },
+        {
+            "dataId":"",
+            "text" : "hello second world",
+            "this.optionText" : "optionText2",
+            "points" : 0,
+            "neagativePoints" : "neagativePoints2"
+        }]
+    }
+}
