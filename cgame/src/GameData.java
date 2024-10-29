@@ -1,4 +1,4 @@
-package cgame;
+package cgame.src;
 
 public class GameData {
     private String text;
